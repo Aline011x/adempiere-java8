@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="generated_xmlbeans">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/org.adempiere.webservice/WEB-INF/lib/generated_xmlbeans.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
